@@ -1,0 +1,39 @@
+{
+  "emps": [
+    {
+      "empId": "4",
+      "empName": "Abhi",
+      "empSal": "4",
+      "isMarried": false,
+      "id": 1
+    },
+    {
+      "empId": "5",
+      "empName": "aaa",
+      "empSal": "5555",
+      "isMarried": true,
+      "id": 2
+    },
+    {
+      "empId": "7",
+      "empName": "bbb",
+      "empSal": "7",
+      "isMarried": false,
+      "id": 3
+    },
+    {
+      "empId": "112081",
+      "empName": "Vaishali",
+      "empSal": "1000",
+      "isMarried": true,
+      "id": 4
+    },
+    {
+      "empId": "789899",
+      "empName": "Lavanya",
+      "empSal": "58999",
+      "isMarried": false,
+      "id": 5
+    }
+  ]
+}
